@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include "list.h"
 
-//test comment
 
 struct ListItem {
 int Value;

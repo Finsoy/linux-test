@@ -2,7 +2,6 @@
 INST_DIR = $$HOME/Vadim/test_for_make/
 
 #Architecture
-#test comment
 
 export ARCH=x86_64
 export CROSS_COMPILE=x86_64-linux-
